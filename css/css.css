@@ -1,0 +1,9 @@
+h1,h2,h3,h4,h5,h6{font-size: 1.5em;text-align: center;text-transform: uppercase;}
+p{text-align: center; font-size: 1em;}
+a{text-align: center;}
+.text-hidden{width: 80%;margin: 10px;z-index: 1;display: flex;align-content: center;align-items: center;align-content: center;align-self: center;justify-content: center;}
+.content-trasformation{position:relative;width: 400px;display: flex;flex-direction: column;align-items: center;align-content: center;justify-content: center;position: relative;}
+body{margin: 0;padding: 0;width: 100%;height: 100vh;display: flex;align-content: center;justify-content: center;align-items: center;line-height: 1.168;}
+.imgResponsive{width: 100%;height: auto;}
+#cutImage{opacity:1;z-index: 2;display: flex;align-items: center;justify-content: center;position: absolute;width: 100%;height: auto;transition: opacity 1s ease-in-out;}
+#cutImage:hover{opacity:0.0;}
