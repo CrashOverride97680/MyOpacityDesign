@@ -7,9 +7,7 @@
 * Lingua
    * **En:**
 
-        1.a => This is a small example of how it works and uses a text box.
-
-------------------------------------------------------------------------------------------------------------------------------------------
+          1.a => This is a small example of how it works and uses a text box.
 
    * **It:**
 
