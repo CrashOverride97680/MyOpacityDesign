@@ -14,4 +14,4 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-<img src="video-to-gif.gif" alt="Esempio" style="align:center;"/>
+<center><img src="video-to-gif.gif" alt="Esempio" style="align:center;"/></center>
