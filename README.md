@@ -11,7 +11,7 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-    * **It:**
+   * **It:**
 
          1.b => Questo è un piccolo esempio che dimostra un effeto di pagina usando l'opacità su una box, per il responsive e centramento è    stata utilizzata una flexbox.
 
