@@ -5,4 +5,4 @@
 **It:**
 > This is a small example of how it works and uses a text box.
 -----------------------------------------------------------------------------------
-<center>![Gif di esempio](video-to-gif.gif)</center>
+<a href="#" align="center">![Gif di esempio](video-to-gif.gif)</a>
